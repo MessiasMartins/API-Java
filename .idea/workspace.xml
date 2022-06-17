@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Conexão com banco de dados H2">
+    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Testando Conexão com Banco de Dados">
+      <change afterPath="$PROJECT_DIR$/br/com/auderemg/rest/ClienteController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br/com/auderemg/ClientesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/ClientesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br/com/auderemg/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/model/entity/Cliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655448804016</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Testando Conexão com Banco de Dados">
+      <created>1655449656127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655449656127</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,7 +153,8 @@
     <MESSAGE value="Mapeando entidade Serviço" />
     <MESSAGE value="Criando os Repositorios JPA // Reorganizando extrutura de arquivos" />
     <MESSAGE value="Conexão com banco de dados H2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conexão com banco de dados H2" />
+    <MESSAGE value="Testando Conexão com Banco de Dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testando Conexão com Banco de Dados" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/clientes$ClientesApplication.ic" NAME="ClientesApplication Coverage Results" MODIFIED="1655447345995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

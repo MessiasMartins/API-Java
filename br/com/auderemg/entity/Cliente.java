@@ -1,9 +1,11 @@
 package br.com.auderemg.entity;
 
+import lombok.Data;
 import javax.persistence.*;
 import java.time.LocalDate;
 
 @Entity
+@Data
 public class Cliente {
 
     @Id

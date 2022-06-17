@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Adicionando Lombok ao Projeto">
-      <change afterPath="$PROJECT_DIR$/br/com/auderemg/entity/Servico.java" afterDir="false" />
+    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Mapeando entidade Serviço">
+      <change afterPath="$PROJECT_DIR$/br/com/auderemg/model/repository/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/br/com/auderemg/model/repository/ServicoRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br/com/auderemg/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/entity/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/auderemg/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/model/entity/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/auderemg/entity/Servico.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/model/entity/Servico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -26,7 +29,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/br/com/auderemg/ClientesApplication.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/br/com/auderemg/entity/Cliente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/br/com/auderemg/model/entity/Cliente.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655445045945</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mapeando entidade Serviço">
+      <created>1655445700654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655445700654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mapeando entidade Cliente" />
     <MESSAGE value="Adicionando Lombok ao Projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Lombok ao Projeto" />
+    <MESSAGE value="Mapeando entidade Serviço" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mapeando entidade Serviço" />
   </component>
 </project>

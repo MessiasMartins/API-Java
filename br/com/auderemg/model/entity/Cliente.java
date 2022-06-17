@@ -1,4 +1,4 @@
-package br.com.auderemg.entity;
+package br.com.auderemg.model.entity;
 
 import lombok.Data;
 import javax.persistence.*;

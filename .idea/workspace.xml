@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Iniciando API Clientes">
+    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Implementando metodo Get Clietes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br/com/auderemg/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/model/entity/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/br/com/auderemg/rest/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/rest/ClienteController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/messiasmartins/Documents/IntelijProjects/clientes",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/messiasmartins/Documents/IntelijProjects/clientes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655450671510</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implementando metodo Get Clietes">
+      <created>1655613464248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655613464248</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +169,8 @@
     <MESSAGE value="Conexão com banco de dados H2" />
     <MESSAGE value="Testando Conexão com Banco de Dados" />
     <MESSAGE value="Iniciando API Clientes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando API Clientes" />
+    <MESSAGE value="Implementando metodo Get Clietes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementando metodo Get Clietes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/clientes$ClientesApplication.ic" NAME="ClientesApplication Coverage Results" MODIFIED="1655447345995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Tratando erros de API">
-      <change afterPath="$PROJECT_DIR$/br/com/auderemg/rest/ecxeption/APIErros.java" afterDir="false" />
+    <list default="true" id="5b7909d1-f37a-4277-be9f-0dd9781c1b89" name="Changes" comment="Padronizando o retorno de erros da API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/br/com/auderemg/rest/ApplicationControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/rest/ApplicationControllerAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/br/com/auderemg/rest/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/auderemg/rest/ClienteController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655964931923</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Padronizando o retorno de erros da API">
+      <created>1655966492210</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655966492210</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +216,8 @@
     <MESSAGE value="Implementando Internacionalização e validaçoes" />
     <MESSAGE value="Correção Bypass para erro na validação de CPF" />
     <MESSAGE value="Tratando erros de API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tratando erros de API" />
+    <MESSAGE value="Padronizando o retorno de erros da API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Padronizando o retorno de erros da API" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/clientes$ClientesApplication.ic" NAME="ClientesApplication Coverage Results" MODIFIED="1655447345995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
